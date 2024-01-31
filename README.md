@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm on an exciting journey of learning and explori
 
 ## Get in Touch
 Excited about React, web development, or just want to chat? I'm always open to connecting!
-- 📫 How to reach me: [AnnNyakwea@gmail.com](annnyakwea255@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/nyakwea-ann-b28378269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 How to reach me: [AnnNyakwea@gmail.com](annnyakwea255@gmail.com) or [Ann Nyakwea](https://www.linkedin.com/in/nyakwea-ann-b28378269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Let's code and create amazing things together! 🌟
 
